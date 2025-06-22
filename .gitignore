@@ -1,0 +1,20 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+
+# Flutter build output
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
